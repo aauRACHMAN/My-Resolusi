@@ -7,5 +7,6 @@ Februari:
   3.Konsisten melakukan Habbit yang dibuat:
     a.Tidur jam 9 malam atau tidur setidaknya 1 jam saat kerrja malam
     b.Melakukan pemanasan di pagi hari
+    c.Membaca habis buku 'The Intelegent Investor'
 Maret:
   1.Mempelajari  "SOLID, KISS, YAGNI"
